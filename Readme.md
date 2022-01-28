@@ -1,6 +1,5 @@
 <h1>Robot Arm</h1>
 <p>Este projeto é um robo de acrílico feito com arduino e peças de acrílico.</p>
-<br/>
 <h2>Materiais</h2>
 <ul>
   <li>4 servo motores 9g</li>
@@ -11,6 +10,6 @@
   <li>Potenciometro de 4700uF e tensão de 25V (opcional)</li>
 </ul>
 <h2>Montagem</h2>
-<img src="" />
-<img src="" />
+<img src="https://github.com/lulucasalves/robotarm-project-arduino/blob/main/.github/img1.png" />
+<img src="https://github.com/lulucasalves/robotarm-project-arduino/blob/main/.github/img2.png" />
 <img src="https://http2.mlstatic.com/D_819057-MLB44922369893_022021-O.jpg" />
