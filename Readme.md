@@ -13,4 +13,4 @@
 <h2>Montagem</h2>
 <img src="" />
 <img src="" />
-<img src="https://http2.mlstatic.com/D_819057-MLB44922369893_022021-O.jpg" />
+<img src="" />
